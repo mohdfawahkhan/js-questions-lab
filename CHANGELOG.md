@@ -5,6 +5,13 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.5](https://github.com/KitsuneKode/js-questions-lab/compare/js-questions-lab-v0.1.4...js-questions-lab-v0.1.5) (2026-06-23)
+
+
+### Fixed
+
+* **ci:** fast-path metadata-only PRs and skip redundant dev push CI ([#59](https://github.com/KitsuneKode/js-questions-lab/issues/59)) ([bb58fb2](https://github.com/KitsuneKode/js-questions-lab/commit/bb58fb2cf29c2bd083aa50e7f08e5a0b45b30651))
+
 ## [0.1.4](https://github.com/KitsuneKode/js-questions-lab/compare/js-questions-lab-v0.1.3...js-questions-lab-v0.1.4) (2026-06-23)
 
 
