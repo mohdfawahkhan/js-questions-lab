@@ -5,6 +5,13 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.3](https://github.com/KitsuneKode/js-questions-lab/compare/js-questions-lab-v0.1.2...js-questions-lab-v0.1.3) (2026-06-23)
+
+
+### Fixed
+
+* **content:** harden weekly upstream sync against timestamp noise ([#51](https://github.com/KitsuneKode/js-questions-lab/issues/51)) ([49be727](https://github.com/KitsuneKode/js-questions-lab/commit/49be727fbef10bf977e9bebaa9baa780448575df))
+
 ## [0.1.2](https://github.com/KitsuneKode/js-questions-lab/compare/js-questions-lab-v0.1.1...js-questions-lab-v0.1.2) (2026-06-22)
 
 
